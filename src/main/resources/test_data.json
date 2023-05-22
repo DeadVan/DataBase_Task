@@ -1,0 +1,15 @@
+{
+  "name": "nika",
+  "login": "nikolozi",
+  "email": "nikolozi.dadvani.1@btu.edu.ge",
+  "nameUpdt": "nikaupdt",
+  "loginUpdt": "nikoloziupdt",
+  "emailUpdt": "updt.dadvani.1@btu.edu.ge",
+  "authorId": 1,
+  "tableName": "author",
+  "testTableName": "test",
+  "methodName": "L2DatabaseProj",
+  "OurTableName": "test_result",
+  "TestName" : "DatabaseTest"
+}
+
